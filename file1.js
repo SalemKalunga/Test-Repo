@@ -10,4 +10,5 @@ const gender = "M";
 const country = "DRC";
 const town = "Lubumbashi";
 
-const ninja = { name: "Naruto", clan = "Uzumaki" }
+const ninja = { name: "Naruto", clan: "Uzumaki" }
+const ninja = { name: "Sasuke", clan: "Uchiwa" }
