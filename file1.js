@@ -12,3 +12,4 @@ const town = "Lubumbashi";
 
 const ninja = { name: "Naruto", clan: "Uzumaki" }
 const ninja = { name: "Sasuke", clan: "Uchiwa" }
+const message = "we are currently working on git branch command";

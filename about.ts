@@ -6,3 +6,5 @@ btn1.addEventListener("click",function(){
 
 const ninja2 = { name: "Naruto", clan : "Uzumaki" }
 const ninja1 = {name :"Sasuke", clan: "Uchiwa"}
+const ninja3 = {name:"Sakura", clan:"Aruno"}
+const ninja4 = {name:"kakashi", clan:"Atake"}
