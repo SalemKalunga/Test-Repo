@@ -12,3 +12,4 @@ const ninja5 = {name:"Azuma", clan:"Sarutobi"}
 const ninja6 = {name:"ino", clan:"yamanaka"}
 const ninja7 = {name:"shikamaru", clan:"naara"}
 const ninja8 = {name:"Shoji", clan:"Akimishi"}
+const ninja9 = {name:"tsunade", clan:"senju"}
