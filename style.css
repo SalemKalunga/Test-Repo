@@ -11,4 +11,6 @@ body {
 main {
     margin: 0;
     padding: 5%;
+    font-family: sans-serif;
+    color: #333;
 }
