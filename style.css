@@ -4,4 +4,5 @@ body {
     font-size: 2em;
     font-family: 'Courier New', Courier, monospace;
     color: brown;
+    text-shadow: 0px 0px 10px black;
 }
