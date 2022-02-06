@@ -12,7 +12,16 @@ main {
     margin: 0;
     padding: 5%;
     font-size: 1.2em;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     color: #3333;
     font-weight: bolder;
+    border: 1px solid salmon;
+    box-shadow: 0px 0px 5px slateblue;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
 }
